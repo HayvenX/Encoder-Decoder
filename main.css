@@ -1,0 +1,69 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.EC {
+    text-align: center;
+    margin-top: 48px;
+    margin-bottom: 48px;
+    font-size: 42px;
+}
+
+.wrapper {
+    display: flex;
+    justify-content: center;
+}
+
+.container {
+    padding: 24px 24px;
+    border: 1px gray solid;
+    text-align: center;
+    min-width: 400px;
+    max-width: auto;
+}
+
+.result {
+    font-size: 42px;
+}
+
+h2 {
+    font-size: 52px;
+}
+
+h4 {
+    display: inline-block;
+    margin: 0;
+    margin-left: 18px;
+}
+
+.shift {
+    margin-left: 32px;
+    position: relative;
+    right: 15px;
+}
+
+input {
+    height: 18px;
+}
+
+#shiftArea {
+    width: 45px;
+}
+
+.inputs {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+button {
+    width: 110px;
+    height: 30px;
+    font-size: 18px;
+    margin-top: 12px;
+    position: relative;
+    top: 5px;
+}
+
+#switcher {
+    text-align: center;
+}
